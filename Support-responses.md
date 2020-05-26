@@ -67,9 +67,9 @@ Hi VMG,
 Thank you for reaching out to GitHub, My name is Michael and I shall be taking ownership of this ticket.
 
 In this scenario, there are a couple of options;
-1. GitHub Repo Sync Option which allows to sync with current repository. For a step by step guide on how to use this option kindly check this link for the [GitHub Repo Sync](https://github.com/marketplace/actions/github-repo-sync).
+1. GitHub Repo Sync Option which allows syncing with the current repository. For a step by step guide on how to use this option kindly check this link for the [GitHub Repo Sync](https://github.com/marketplace/actions/github-repo-sync).
 
-2. Git Sync Action option which allows to push to a remote repository. For a step by step guide on how to use this option kindly check this link for the [Git Sync](https://github.com/marketplace/actions/git-sync-action).
+2. Git Sync Action option which allows pushing to a remote repository. For a step by step guide on how to use this option kindly check this link for the [Git Sync](https://github.com/marketplace/actions/git-sync-action).
 
 3. GitHub Desktop option which provides a GUI. For a step by step guide on how to use this option kindly check this link for the [GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/syncing-your-branch).
 
@@ -98,13 +98,23 @@ You've checked the account in our admin view, he only has one personal repositor
 on help.github.com.**_
 
 ### **Ticket 3 response:**
-Hi James
+Hi James,
 
+Thank you for contacting GitHub support. 
 
+In a private repository like yours, repository owners can only grant write access to collaborators. Collaborators cannot have read-only access to repositories owned by a user account hence this is the reason your Dev collaborator was able to fork your private repo.
 
+More information about permission levels for a repository owned by a user account can be found on this GitHub [link](https://help.github.com/en/github/setting-up-and-managing-your-github-user-account/permission-levels-for-a-user-account-repository).
 
+Since your repository is private, you can also delete the forked repository and this will delete all of its forks. For more information on this, kindly check out the knowledge base article on this GitHub [link](https://help.github.com/en/github/administering-a-repository/deleting-a-repository).
 
+Please don't hesitate to let us know if you have any questions or concerns. Thank You.
 
+regards,
+
+Michael M.
+
+GitHub Support.
 
 ***
 ## **Love to know more about yourself**
@@ -112,22 +122,24 @@ Hi James
 better! If you could fill the following out that would be great:*
 
 #### **Name?**
-      replace this with your answer
+Michael Machuka
 
 #### **Location?**
-      replace this with your answer
+Nairobi, Kenya. (The Green City In The Sun)
 
 #### **What's an impressionable experience you've had with customer service/support, and why?**
-      replace this with your answer
+I had the please of working with a customer from one of the companies I was supporting, we had just rolled out a new product which was new to the African market. For the product to be receptive and for the subscribers and merchants to accept it, there needed to be numerous training and material preparation to train the support engineers at the customer site. I took upon the challenge to personally create this training material then schedule a 2-hour session every evening with the engineers to train them so that they could ramp up their knowledge on the product then be able to assist the subscribers and merchants in the field using the product. I was not tasked to do the training but out of my own personal passion to better other individuals, I took upon this task to train them, in the process enhance my knowledge on the product as well. This proved to be a good cause as the manager from the customer side, sent a good mail to my manager to congratulate me for my efforts and going the extra mile to support the customer and the services. The product was a success after a couple of months as many subscribers and merchants took up the new technology that was NFC(Near Field Communication).
 
 #### **Tell us about a time where you helped someone.**
-      replace this with your answer
+One time during one of my leave days, my neighbour had a rebuild project for his house and needed to repaint the whole house. He was going to do all this by himself, but since I was free and on leave, I decided to help him and in the process learnt the different types of paints to use, when to use them and which paint is durable. In the process, the neighbour also shared more life lessons since he was elderly compare to me and some of the advice he gave me, I use them in my daily work.
 
 #### **What appeals to you about GitHub, as a company you'd potentially be working for?**
-      replace this with your answer
+GitHub supports a community where more than 50 million people learn, share, and work together to build software and collaborate and in the process automating from code to the cloud through the CI/CD feature which allows for a business to scale faster. To be a part of the team that ensures all customers and the Github community has a seamless and beautiful experience while using the awesome GitHub features is what I want to be a part of and help bring change to the world as well as be innovative in the process.
+I am also an avid follower of GitHub social media pages like twitter and I love that the brand really engages with its customers and feels really connected to the people it serves.
+Coupled with the necessary skills in GIT, Cloud technology, great customer support experiences, and passion I would be an incredible match with the GitHub.
 
 #### **How would you describe what GitHub does to a non-technical person?**
-      replace this with your answer
+GitHub is a web-based site that allows you to store something that is written or a text file. GitHub lets people create new versions of the stored file, as well as have access to previous versions saved along the way after modifications done on the file. Everyone can access GitHub and share stuff with each other if they want as per the permissions set.
 
 #### **What motivates you to work in support?**
-      replace this with your answer
+I am passionate about putting a smile on the customers' face, and fixing any issues that the customers raise. Being the first contact with the customers ensures that I can create a rapport with the customer and ensure that they have a seamless experience using different applications and also explain to them whenever they need clarification. At the end of the day, a happy customer is good for the business and that fills me with joy to know that I made a customer happy by fixing or assisting them to resolve an issue they had.
