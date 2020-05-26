@@ -136,7 +136,7 @@ One time during one of my leave days, my neighbour had a rebuild project for his
 #### **What appeals to you about GitHub, as a company you'd potentially be working for?**
 GitHub supports a community where more than 50 million people learn, share, and work together to build software and collaborate and in the process automating from code to the cloud through the CI/CD feature which allows for a business to scale faster. To be a part of the team that ensures all customers and the Github community has a seamless and beautiful experience while using the awesome GitHub features is what I want to be a part of and help bring change to the world as well as be innovative in the process.
 I am also an avid follower of GitHub social media pages like twitter and I love that the brand really engages with its customers and feels really connected to the people it serves.
-Coupled with the necessary skills in GIT, Cloud technology, great customer support experiences, and passion I would be an incredible match with the GitHub.
+Coupled with the necessary skills in GIT, Cloud technology, great customer support experiences, and passion I will be an incredible match with GitHub.
 
 #### **How would you describe what GitHub does to a non-technical person?**
 GitHub is a web-based site that allows you to store something that is written or a text file. GitHub lets people create new versions of the stored file, as well as have access to previous versions saved along the way after modifications done on the file. Everyone can access GitHub and share stuff with each other if they want as per the permissions set.
