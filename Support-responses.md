@@ -62,7 +62,31 @@ vmg
 Hint: One common option is Git remotes. There are others!*
 
 ### **Ticket 2 response:**
-      replace this with your response
+Hi VMG,
+
+Thank you for reaching out to GitHub, My name is Michael and I shall be taking ownership of this ticket.
+
+In this scenario, there are a couple of options;
+1. GitHub Repo Sync Option which allows to sync with current repository. For a step by step guide on how to use this option kindly check this link for the [GitHub Repo Sync](https://github.com/marketplace/actions/github-repo-sync).
+
+2. Git Sync Action option which allows to push to a remote repository. For a step by step guide on how to use this option kindly check this link for the [Git Sync](https://github.com/marketplace/actions/git-sync-action).
+
+3. GitHub Desktop option which provides a GUI. For a step by step guide on how to use this option kindly check this link for the [GitHub Desktop](https://help.github.com/en/desktop/contributing-to-projects/syncing-your-branch).
+
+4. Git Remote option via CLI. For a step by step guide on how to use this option kindly check this link for the [Git Remote](https://help.github.com/en/github/using-git/adding-a-remote) and [Git Remote fork](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork).
+
+Kindly check either of the above options. Please don't hesitate to let us know if you have any questions or concerns.
+
+regards,
+
+Michael M.
+
+GitHub Support.
+
+
+
+
+
 
 
 ### **Ticket 3: Unhappy about forking**
