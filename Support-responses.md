@@ -1,14 +1,14 @@
 # Support-tickets
 
 ### **Ticket 1: Rejected pull request from fork**
-*To start, I have to say I LOVE GITHUB. You guys rock. I was at your 4th birthday party,
+_**To start, I have to say I LOVE GITHUB. You guys rock. I was at your 4th birthday party,
 thanks for the cupcake and booze!
 Anyway, here's my problem. I sent a pull request to technoweenie, and he rejected it because
 my master branch is out of sync with his master. What can I do to fix this?
 Help me supportocat, you're my only hope!
 /.Steve
 Hint: You'll want to address their question, and you could add an explanation of topic
-branches as a better workflow.*
+branches as a better workflow.**_
 
 ### **Ticket 1 response:**
 Hi Steve,
@@ -52,14 +52,14 @@ Michael M.
 
 GitHub Support.
 
-
+***
 ### **Ticket 2: Syncing internal server and GitHub?**
-*Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
+_**Hi GitHub! My company has an internal Git server used for deployments, we use GitHub,
 and I work on a local copy of the repository. For workflow purposes, how do I sync my
 repository to GitHub and the internal Git server?
 Thanks,
 vmg
-Hint: One common option is Git remotes. There are others!*
+Hint: One common option is Git remotes. There are others!**_
 
 ### **Ticket 2 response:**
 Hi VMG,
@@ -83,14 +83,10 @@ Michael M.
 
 GitHub Support.
 
-
-
-
-
-
+***
 
 ### **Ticket 3: Unhappy about forking**
-*JamesTK here, I have another question.
+_**JamesTK here, I have another question.
 One of my dev collaborator forked my private repo without explicit permission to do so... is
 that typical? I am surprised that the system did not notify me if it was okay to grant the fork
 permission. Is there a way to setup permissions of this sort? Also, other than asking the
@@ -99,11 +95,18 @@ Thanks, jamestk
 Notes:
 You've checked the account in our admin view, he only has one personal repository
 (jamestk/tribbles), which has one collaborator. Any documentation you may need is available
-on help.github.com.*
+on help.github.com.**_
 
 ### **Ticket 3 response:**
-      replace this with your response
+Hi James
 
+
+
+
+
+
+
+***
 ## **Love to know more about yourself**
 *We'd also love if you could share more about yourself so the team can get to know you
 better! If you could fill the following out that would be great:*
