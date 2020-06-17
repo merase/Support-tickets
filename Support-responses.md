@@ -143,3 +143,4 @@ GitHub is a web-based site that allows you to store something that is written or
 
 #### **What motivates you to work in support?**
 I am passionate about putting a smile on the customers' face, and fixing any issues that the customers raise. Being the first contact with the customers ensures that I can create a rapport with the customer and ensure that they have a seamless experience using different applications and also explain to them whenever they need clarification. At the end of the day, a happy customer is good for the business and that fills me with joy to know that I made a customer happy by fixing or assisting them to resolve an issue they had.
+
